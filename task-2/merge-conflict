@@ -1,4 +1,7 @@
 Line 1: Common start
-Line 2: Change from branch2
+<<<<<<< HEAD
+Line 2: Change line
+Line 2: Change from branch1
+>>>>>>> branch2
 Line 3: Common end
 
